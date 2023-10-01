@@ -13,21 +13,18 @@ The US aviation industry is renowned for its innovation, technological advanceme
 
 The Objectives of this analysis are as follow:
 
-- Accidents by weather.
+- Total Accidents.
 
-- Trend of accidents and casualties.
+- Total Casualities.
+
+- Fatal Casualities.
+
+- Non Fatal Casualities.
 
 - Accidents by mark.
 
-- Accidents by catigories.
 
-- Accidents by engine type.
-
-- Casualties by amateur build.
-
-- Accidents by state.
-
-- ![](Accidents1.jpeg)
+ ![](Accidents1.jpeg)
 
 
 - ## Skills Demostrated
