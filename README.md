@@ -38,3 +38,8 @@ The Objectives of this analysis are as follow:
   - Silcers for filtering
     
   - Tableau for data visualization
+
+- ## Data Sourcing
+  ![](datasource.jpeg)
+
+This datasets is from www.kaggle.com. it is a csv file with a single table. Its has 14 columns and 35349 rows.
