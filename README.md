@@ -42,4 +42,15 @@ The Objectives of this analysis are as follow:
 - ## Data Sourcing
   ![](datasource.jpeg)
 
-This datasets is from www.kaggle.com. it is a csv file with a single table. Its has 14 columns and 35349 rows.
+This datasets is from www.kaggle.com. it is a csv file with a single table. Its has 14 columns and 55349 rows.
+
+- ## Data Modeling
+
+These a single dataset therefore data modeling was not carried out.
+
+
+
+- ## Data Analysis and Visualization
+  
+  
+
