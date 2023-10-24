@@ -52,8 +52,7 @@ These a single dataset therefore data modeling was not carried out.
 
 - ## Data Analysis and Visualization
   ![](US Aviation .jpeg)
-   [Click here to view US Aviation dashboard workbook](https://public.tableau.com/app/profile/ussy.page/viz/AviationAccident_16898150124380/USAviationDashboard)
-
+    
 
 - Total number of Accidents is 11,437 during the period covered.
  
