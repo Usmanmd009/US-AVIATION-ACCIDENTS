@@ -51,7 +51,7 @@ These a single dataset therefore data modeling was not carried out.
 
 
 - ## Data Analysis and Visualization
-  ![](US Aviation .jpeg)
+  ![](dashboard.png)
     
 
 - Total number of Accidents is 11,437 during the period covered.
