@@ -60,6 +60,9 @@ These a single dataset therefore data modeling was not carried out.
   
 - Total Fatal accidents  13,338 and 50,030 for non fatal accidents.
 
-- 
   
+
+  Thanks for reading! Pls do well to share your view in the comments section, I would be glad to discuss further on this analysis.
+
+Follow me on www.linkedin.com/in/usman-muhammad-4992a3279
 
